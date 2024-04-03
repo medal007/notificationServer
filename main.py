@@ -3,8 +3,8 @@ from datetime import datetime
 import requests
 
 # Replace these values with your own app_id and rest_api_key
-app_id = "4ea386de-99cb-4597-9be2-c6f30b4db564"
-rest_api_key = "ODVkOTg5M2EtNjJmYy00ZjNlLWFhMDktMjE2Y2Y5ZTgzMDA2"
+app_id = ""
+rest_api_key = ""
 
 # Define the notification data
 notification_data = {
